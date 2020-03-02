@@ -24,7 +24,6 @@ function draw() {
     fill('red');
     stroke('gold');
     circle(x, y, 50);
-
  }
  function tri(x,y){
     fill("pink");
